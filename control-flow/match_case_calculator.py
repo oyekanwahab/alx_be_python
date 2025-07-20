@@ -1,5 +1,5 @@
 num1 = int(input("Enter the first number: "))
-num2 = int(input("Enter the decond number: "))
+num2 = int(input("Enter the second number: "))
 opt = input("Choose the operation (+, -, *, /): ").lower()
 resul = 0 
 match opt:
